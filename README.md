@@ -1,10 +1,8 @@
-# QR Code Generator for Axie Infinity
+# QR Code Generator for Axie Infinity using React & Ethers
 
-## Made with ReactJS + EthersJS
+## Automate your QR codes for your scholars
 
-### Automate your QR codes for your scholars
-
-## Installation
+### Installation
 
 ```sh
 yarn
